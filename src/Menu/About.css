@@ -1,0 +1,16 @@
+.main1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 80%;
+  margin: 30px auto;
+  color: rgb(51, 44, 44);
+}
+.main1 img {
+  height: 210px;
+}
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}

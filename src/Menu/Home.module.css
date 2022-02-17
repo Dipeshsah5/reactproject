@@ -1,0 +1,50 @@
+body{
+    background-image: url('./image/bc.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100vw 100vh;
+    color: rgb(199, 236, 236);
+}
+.img1{
+    float: left;
+    margin: 150px 40px;
+    border-radius: 40px;
+    width: 400px;
+    height: 400px;
+}
+.content{
+    float: right;
+    width: 70%;
+}
+.content h3{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 70px;
+    margin-right: 20px;
+    font-family: dancing-script;
+    font-weight: bold;
+    color: blanchedalmond;
+}
+.content p{
+    margin-top: 20px;
+    margin-right: 30px;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: normal;
+    line-height: 30px;
+    text-align: justify;
+}
+ .input{
+     margin-top: 30px;
+    border-radius: 20px;
+    padding: 10px 70px;
+}
+.button{
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: red;
+    background-color: rgb(165, 165, 236);
+
+}
